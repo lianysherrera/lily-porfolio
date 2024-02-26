@@ -1,4 +1,3 @@
-Mi Porfolio
 Este es el repositorio de mi portafolio personal, que destaca mis habilidades, proyectos y experiencias en el mundo del desarrollo web. El portafolio está diseñado para ser totalmente receptivo, asegurando una experiencia óptima en una amplia gama de dispositivos, desde computadoras de escritorio hasta dispositivos móviles.
 
 Contacto:
